@@ -1,1 +1,1 @@
-# API que gerencie chamados de suporte técnico, relacionados a um usuário.
+# API que gerencia chamados de suporte técnico, relacionados a um usuário.
